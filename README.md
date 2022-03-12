@@ -11,7 +11,7 @@
 
 📁 Math & NumberTheory
 +  [IsPrimeNumber](https://www.acmicpc.net/problem/1978)  
-+  [gcd&lcm](https://www.acmicpc.net/problem/2609)  
++  [GCD&LCM](https://www.acmicpc.net/problem/2609)  
 
 📁 String  
 
