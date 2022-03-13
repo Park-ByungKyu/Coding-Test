@@ -27,9 +27,9 @@ int main() {
     edge.resize(n, vector<int>());
     int a,b;
     for (int i = 0; i < m; i++) {
-        cin >> a >> b;
-        edge[a-1].push_back(b-1);
-        edge[b-1].push_back(a-1);
+        cin >> a >> b; a--; b--;
+        edge[a].push_back(b);
+        edge[b].push_back(a);
     }
     visited.resize(n,false);
     DFS_all();
