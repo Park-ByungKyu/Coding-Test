@@ -8,12 +8,12 @@
 📁 Bruteforces & Backtracking  
 
 📁 Graph  
-+  [BFS](https://www.acmicpc.net/problem/11724)
-+  [DFS](https://www.acmicpc.net/problem/11724)
++  [BFS](https://github.com/Park-ByungKyu/Coding-Test/blob/main/Graph/BFS.cpp)
++  [DFS](https://github.com/Park-ByungKyu/Coding-Test/blob/main/Graph/DFS.cpp)
 
 📁 Math & NumberTheory
-+  [IsPrimeNumber](https://www.acmicpc.net/problem/1978)  
-+  [GCD&LCM](https://www.acmicpc.net/problem/2609)  
++  [IsPrimeNumber](https://github.com/Park-ByungKyu/Coding-Test/blob/main/Math%26NumberTheory/IsPrimeNumber.cpp)  
++  [GCD&LCM](https://github.com/Park-ByungKyu/Coding-Test/blob/main/Math%26NumberTheory/gcd%26lcm.cpp)  
 
 📁 String  
 
