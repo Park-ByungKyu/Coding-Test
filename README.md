@@ -4,7 +4,10 @@
 '최적화' 보다 '쉬운 구현'에 중점을 둔 Base Code입니다.  
 
 ### 📁 C++ STL  
-+  
++  Sorting
++  Binary_Search
++  Lower_Bound/Upper_Bound
++  Operator Overloading
 
 ### 📁 Data Structure STL  
 +  Vector
@@ -30,11 +33,10 @@ Weighted Graph Algorithm
 +  [GCD&LCM](https://github.com/Park-ByungKyu/Coding-Test/blob/main/Math%26NumberTheory/gcd%26lcm.cpp)  
 
 ### 📁 String  
++  C++ string
 +  Naive Matching
 +  Trie
 
 ### 📁 DP  
 
 ### 📁 Important Etc.  
-+  Binary_Search Method
-+  Lower_Bound/Upper_Bound
