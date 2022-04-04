@@ -40,3 +40,5 @@ Weighted Graph Algorithm
 ### 📁 DP  
 
 ### 📁 Important Etc.  
++  Two Pointer  
++  Prefix Sum  
