@@ -1,44 +1,13 @@
 # Coding-Test
 코딩테스트 무난한 합격을 위한 노트  
 
-'최적화' 보다 '쉬운 구현'에 중점을 둔 Base Code입니다.  
+이 Repository는 크게 세 가지로 구성됩니다.
 
-### 📁 C++ STL  
-+  Sorting
-+  Binary_Search
-+  Lower_Bound/Upper_Bound
-+  Operator Overloading
+## 1. Base Codes
+코딩테스트를 준비한다면 꼭 알아야 하고 직접 짜봐야 하는 기본 코드들을 모은 폴더입니다.
 
-### 📁 Data Structure STL  
-+  Vector
-+  Queue/Stack
-+  Set/Multiset
-+  Map/Multimap
+## 2. Open Problems
+실제 기업들이 공개한 문제들의 풀이를 모은 폴더입니다.
 
-### 📁 Bruteforces & Backtracking  
-+  [Backtracking](https://github.com/ggyuchive/Coding-Test/blob/main/Bruteforces%26Backtracking/Backtracking.cpp)  
-
-### 📁 Graph  
-+  [BFS](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/BFS.cpp)
-+  [DFS](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/DFS.cpp)
-+  [FloodFill](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/FloodFill.cpp)  
-+  Union_Find
-
-Weighted Graph Algorithm
-+  [Dijkstra](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/Dijkstra.cpp)
-+  [Floyd-Warshall](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/Floyd_Warshall.cpp)
-
-### 📁 Math & NumberTheory
-+  [IsPrimeNumber](https://github.com/ggyuchive/Coding-Test/blob/main/Math%26NumberTheory/IsPrimeNumber.cpp)  
-+  [GCD&LCM](https://github.com/ggyuchive/Coding-Test/blob/main/Math%26NumberTheory/gcd%26lcm.cpp)  
-
-### 📁 String  
-+  C++ string
-+  Naive Matching
-+  Trie
-
-### 📁 DP  
-
-### 📁 Important Etc.  
-+  Two Pointer  
-+  Prefix Sum  
+## 3. Expected Problems
+최신 출제유형을 반영한 예상 문제들을 모은 폴더입니다.
