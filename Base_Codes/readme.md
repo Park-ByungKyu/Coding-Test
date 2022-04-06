@@ -13,21 +13,21 @@
 +  Map/Multimap
 
 ### 📁 Bruteforces & Backtracking  
-+  [Backtracking](https://github.com/ggyuchive/Coding-Test/blob/main/Bruteforces%26Backtracking/Backtracking.cpp)  
++  [Backtracking](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Bruteforces%26Backtracking/Backtracking.cpp)  
 
 ### 📁 Graph  
-+  [BFS](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/BFS.cpp)
-+  [DFS](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/DFS.cpp)
-+  [FloodFill](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/FloodFill.cpp)  
++  [BFS](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Graph/BFS.cpp)
++  [DFS](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Graph/DFS.cpp)
++  [FloodFill](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Graph/FloodFill.cpp)  
 +  Union_Find
 
 Weighted Graph Algorithm
-+  [Dijkstra](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/Dijkstra.cpp)
-+  [Floyd-Warshall](https://github.com/ggyuchive/Coding-Test/blob/main/Graph/Floyd_Warshall.cpp)
++  [Dijkstra](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Graph/Dijkstra.cpp)
++  [Floyd-Warshall](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Graph/Floyd_Warshall.cpp)
 
 ### 📁 Math & NumberTheory
-+  [IsPrimeNumber](https://github.com/ggyuchive/Coding-Test/blob/main/Math%26NumberTheory/IsPrimeNumber.cpp)  
-+  [GCD&LCM](https://github.com/ggyuchive/Coding-Test/blob/main/Math%26NumberTheory/gcd%26lcm.cpp)  
++  [IsPrimeNumber](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Math%26NumberTheory/IsPrimeNumber.cpp)  
++  [GCD&LCM](https://github.com/ggyuchive/Coding-Test/blob/main/Base_Codes/Math%26NumberTheory/gcd%26lcm.cpp)  
 
 ### 📁 String  
 +  C++ string
