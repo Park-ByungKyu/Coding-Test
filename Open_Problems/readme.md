@@ -18,6 +18,13 @@
 [6번 외벽 점검 ](https://programmers.co.kr/learn/courses/30/lessons/60062)  
 [7번 블록 이동하기 ](https://programmers.co.kr/learn/courses/30/lessons/60063)  
 
+* 2019 Kakao Blind Recruitment (Practice)  
+[4번 무지의 먹방 라이브 ](https://programmers.co.kr/learn/courses/30/lessons/42891)  
+[5번 길찾기 게임 ](https://programmers.co.kr/learn/courses/30/lessons/42892)  
+[6번 매칭 점수 ](https://programmers.co.kr/learn/courses/30/lessons/42893)  
+[7번 블록 게임 ](https://programmers.co.kr/learn/courses/30/lessons/42894)  
+
+
 ### Samsung
 * [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
-* [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
+* [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)  
