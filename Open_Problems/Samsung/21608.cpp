@@ -1,15 +1,8 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <cmath>
-#include <queue>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    ios_base :: sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
+    ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 
     int n; cin >> n;
     int like[n*n][5];
