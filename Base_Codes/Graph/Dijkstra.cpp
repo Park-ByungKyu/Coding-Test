@@ -12,13 +12,18 @@ void Dijkstra (int n, int start) {
     pq.push({0,start});
     
     while (!pq.empty()) {
-        int s = pq.top().second;
-        pq.pop();
+        int s;
+        do {
+            s = pq.top().second;
+            pq.pop();
+        } while (!pq.empty() && visited[s]);
+        if (visited[s]) break;
+
         visited[s] = true;
         for (int i = 0; i < edge[s].size(); i++) {
             int e = edge[s][i].first;
             ll c = edge[s][i].second;
-            if (!visited[e] && dist[e] > dist[s]+c) {
+            if (dist[e] > dist[s]+c) {
                 pq.push({dist[s]+c, e});
                 dist[e] = dist[s]+c;
             }
